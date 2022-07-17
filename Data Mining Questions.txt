@@ -1,0 +1,5107 @@
+
+ Data Mining Questions :
+ ========================
+
+  1. Data Mining
+  2. Data Mining Tutorial 
+  3. Data Mining Techniques open link
+  4. Implementation Process
+  5. Data Mining Architecture
+  6. Data Mining KDD Process
+  7. Data Mining History
+  8. Data Mining Tools
+  9. Data Mining vs Machine Learning
+ 10. Facebook Data Mining
+ 11. Social Media Data Mining Methods
+ 12. Data Mining Cluster Analysis
+ 13. Text Data Mining
+ 14. Bagging vs Boosting
+ 15. Data Mining vs Data Warehousing
+ 16. Social Media Data Mining
+ 17. Data Mining Bayesian Classification
+ 18. Data Mining World Wide Web
+ 19. Different types of Clustering Algorithm
+ 20. Bitcoin Data Mining
+ 21. Orange Data Mining
+ 22. Data Mining vs Big Data
+ 23. Decision Tree Induction
+ 24. Educational Data Mining
+ 25. Data Mining in Healthcare
+ 26. Apriori Algorithm
+ 27. Data Integration in Data Mining
+ 28. Data mining vs Text mining
+ 29. Discretization in data mining
+ 30. Redundancy and Correlation in Data Mining
+ 31. Classification of Data Mining Systems
+ 32. Data Mining Models
+ 33. Data mining vs Data Science 
+ 34. Data Mining vs Statistics
+ 35. Data Mining vs Web Mining
+ 36. Data Mining vs Data Analysis
+ 37. Business Intelligence vs Data Mining
+ 38. Data Mining vs Data Visualization
+ 39. Data Mining vs Data Analytics
+ 40. Types of Data Mining
+ 41. Data Profiling vs Data Mining
+ 42. Predictive Analytics vs Data Mining
+ 43. Data Mining vs OLAP
+ 44. Descriptive vs Predictive Data Mining
+ 45. Spatial vs Temporal Data Mining
+ 46. classification vs clustering
+ 47. Hierarchical clustering in data mining
+ 48. Density-based clustering in data mining
+ 49. Aggregation in data mining
+ 50. Regression in data mining
+ 51. What is Outlier in data mining
+ 52. Data Cleaning in Data Mining
+ 53. Data Processing in Data Mining
+ 54. Classification and Predication in Data Mining
+ 55. Data Mining Task Primitives
+ 56. Web Content vs Web Structure vs Web Usage Mining
+ 57. What is Binning in Data Mining 
+ 58. KDD vs Data Mining
+ 59. What is Noise in Data Mining
+ 60. BIRCH in Data Mining
+ 61. Stemming in Data Mining
+ 62. Feature Transformation in Data Mining
+ 63. Visual and Audio Data Mining
+ 64. Class Comparison Methods in Data Mining
+ 65. Data Selection in Data Mining
+ 66. Tasks and Functionalities of Data Mining
+ 67. Ubiquitous and Invisible Data Mining
+ 68. Entity Identification Problem in Data Mining
+ 69. Numerosity Reduction in Data Mining
+ 70. Market Basket Analysis in Data Mining
+ 71. What is Multimedia Data Mining
+ 72. Correlation Analysis in Data Mining
+ 73. Data Mining Services
+ 74. Trends in Data Mining
+ 75. Data Harvesting vs Data Mining
+ 76. Data Mining vs Artificial Intelligence
+ 77. Data Mining vs Data Exploration
+ 78. Data Mining vs Process Mining
+ 79. Web Scraping vs Data Mining
+ 80. Data Wrangling
+ 81. What is Boosting in Data Mining
+ 82. What is Forecasting in Data Mining
+ 83. What is CRISP in Data Mining
+ 84. MCQ
+ 85. Data Mining MCQ
+
+ 86. Main Purpose of Data Mining :
+     `````````````````````````````
+ 87. Data Mining can be applied to any Type of Data :
+     `````````````````````````````````````````````````
+          (A)  Data Warehouses
+          (B)  Transactional Databases
+          (C)  Relational Databases
+          (D)  Multimedia Databases
+          (E)  Spatial Databases
+          (F)  Time-series Databases
+          (G)  World Wide Web
+  
+ 88. Data Mining Process Consists of Three Main Phases :
+     ````````````````````````````````````````````````````
+         1. Data Pre-processing
+         2. Data Extraction
+         3. Data Evaluation and Presentation
+ 
+ 89. Applications of Data Mining :
+     ``````````````````````````````
+          (A) Financial Analysis
+          (B) Biological Analysis
+          (C) Scientific Analysis
+          (D) Intrusion Detection
+          (E) Fraud Detection
+          (F) Research Analysis
+          (G) Business Intelligence
+          (H) Web search
+          (I) Bioinformatics
+          (J) Health Informatics
+          (K) Finance
+          (L) Digital Libraries
+          (M) Digital Governments
+  
+ 90. Real-life examples of Data Mining :
+     ````````````````````````````````````
+           (A) Market Basket Analysis:
+           (B) Protein Folding:
+           (C) Fraud Detection:
+
+ 1. <<<<<<<<< Data Mining >>>>>>>>>
+__________________________________________________
+       Data Mining                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining
+                                                                                        
+2) Definition of Data Mining ?
+------------------------------
+*
+ 
+3) What is Data Mining About ?
+------------------------------
+*
+*
+
+4) What does Data Mining Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining :
+----------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< Data Mining Tutorial >>>>>>>>>
+__________________________________________________
+   Data Mining Tutorial                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining Tutorial
+                                                                                        
+2) Definition of Data Mining Tutorial ?
+---------------------------------------
+*
+ 
+3) What is Data Mining Tutorial About ?
+---------------------------------------
+*
+*
+
+4) What does Data Mining Tutorial Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining Tutorial :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining Tutorial :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining Tutorial :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< Data Mining Techniques open link >>>>>>>>>
+__________________________________________________
+    Data Mining Techniques open link              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining Techniques open link
+                                                                                        
+2) Definition of Data Mining Techniques open link ?
+---------------------------------------------------
+*
+ 
+3) What is Data Mining Techniques open link About ?
+---------------------------------------------------
+*
+*
+
+4) What does Data Mining Techniques open link Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining Techniques open link :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining Techniques open link :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining Techniques open link :
+-------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< Implementation Process >>>>>>>>>
+__________________________________________________
+     Implementation Process                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Implementation Process
+                                                                                        
+2) Definition of Implementation Process ?
+-----------------------------------------
+*
+ 
+3) What is Implementation Process About ?
+-----------------------------------------
+*
+*
+
+4) What does Implementation Process Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Implementation Process :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Implementation Process :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Implementation Process :
+---------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 5. <<<<<<<<< Data Mining Architecture >>>>>>>>>
+__________________________________________________
+    Data Mining Architecture                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining Architecture
+                                                                                        
+2) Definition of Data Mining Architecture ?
+-------------------------------------------
+*
+ 
+3) What is Data Mining Architecture About ?
+-------------------------------------------
+*
+*
+
+4) What does Data Mining Architecture Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining Architecture :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining Architecture :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining Architecture :
+-----------------------------------------
+*
+*
+_______________________________________________________________________
+
+ 6. <<<<<<<<< Data Mining KDD Process >>>>>>>>>
+__________________________________________________
+    Data Mining KDD Process                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining KDD Process
+                                                                                        
+2) Definition of Data Mining KDD Process ?
+------------------------------------------
+*
+ 
+3) What is Data Mining KDD Process About ?
+------------------------------------------
+*
+*
+
+4) What does Data Mining KDD Process Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining KDD Process :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining KDD Process :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining KDD Process :
+----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 7. <<<<<<<<< Data Mining History >>>>>>>>>
+__________________________________________________
+    Data Mining History                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining History
+                                                                                        
+2) Definition of Data Mining History ?
+--------------------------------------
+*
+ 
+3) What is Data Mining History About ?
+--------------------------------------
+*
+*
+
+4) What does Data Mining History Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining History :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining History :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining History :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 8. <<<<<<<<< Data Mining Tools >>>>>>>>>
+__________________________________________________
+    Data Mining Tools                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining Tools
+                                                                                        
+2) Definition of Data Mining Tools ?
+------------------------------------
+*
+ 
+3) What is Data Mining Tools About ?
+------------------------------------
+*
+*
+
+4) What does Data Mining Tools Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining Tools :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining Tools :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining Tools :
+----------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 9. <<<<<<<<< Data Mining vs Machine Learning >>>>>>>>>
+__________________________________________________
+    Data Mining vs Machine Learning               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining vs Machine Learning
+                                                                                        
+2) Definition of Data Mining vs Machine Learning ?
+--------------------------------------------------
+*
+ 
+3) What is Data Mining vs Machine Learning About ?
+--------------------------------------------------
+*
+*
+
+4) What does Data Mining vs Machine Learning Do ?
+-------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining vs Machine Learning :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining vs Machine Learning :
+--------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining vs Machine Learning :
+------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 10. <<<<<<<<< Facebook Data Mining >>>>>>>>>
+__________________________________________________
+   Facebook Data Mining                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Facebook Data Mining
+                                                                                        
+2) Definition of Facebook Data Mining ?
+---------------------------------------
+*
+ 
+3) What is Facebook Data Mining About ?
+---------------------------------------
+*
+*
+
+4) What does Facebook Data Mining Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Facebook Data Mining :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Facebook Data Mining :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Facebook Data Mining :
+-------------------------------------
+*
+*
+_______________________________________________________________________
+        
+ 11. <<<<<<<<< Social Media Data Mining Methods >>>>>>>>>
+__________________________________________________
+    Social Media Data Mining Methods              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Social Media Data Mining Methods
+                                                                                        
+2) Definition of Social Media Data Mining Methods ?
+---------------------------------------------------
+*
+ 
+3) What is Social Media Data Mining Methods About ?
+---------------------------------------------------
+*
+*
+
+4) What does Social Media Data Mining Methods Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Social Media Data Mining Methods :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Social Media Data Mining Methods :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Social Media Data Mining Methods :
+-------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 12. <<<<<<<<< Data Mining Cluster Analysis >>>>>>>>>
+__________________________________________________
+    Data Mining Cluster Analysis                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining Cluster Analysis
+                                                                                        
+2) Definition of Data Mining Cluster Analysis ?
+-----------------------------------------------
+*
+ 
+3) What is Data Mining Cluster Analysis About ?
+-----------------------------------------------
+*
+*
+
+4) What does Data Mining Cluster Analysis Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining Cluster Analysis :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining Cluster Analysis :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining Cluster Analysis :
+---------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 13. <<<<<<<<< Text Data Mining >>>>>>>>>
+__________________________________________________
+    Text Data Mining                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Text Data Mining
+                                                                                        
+2) Definition of Text Data Mining ?
+-----------------------------------
+*
+ 
+3) What is Text Data Mining About ?
+-----------------------------------
+*
+*
+
+4) What does Text Data Mining Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Text Data Mining :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Text Data Mining :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Text Data Mining :
+---------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 14. <<<<<<<<< Bagging vs Boosting >>>>>>>>>
+__________________________________________________
+    Bagging vs Boosting                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Bagging vs Boosting
+                                                                                        
+2) Definition of Bagging vs Boosting ?
+--------------------------------------
+*
+ 
+3) What is Bagging vs Boosting About ?
+--------------------------------------
+*
+*
+
+4) What does Bagging vs Boosting Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Bagging vs Boosting :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Bagging vs Boosting :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Bagging vs Boosting :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 15. <<<<<<<<< Data Mining vs Data Warehousing >>>>>>>>>
+__________________________________________________
+     Data Mining vs Data Warehousing              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining vs Data Warehousing
+                                                                                        
+2) Definition of Data Mining vs Data Warehousing ?
+--------------------------------------------------
+*
+ 
+3) What is Data Mining vs Data Warehousing About ?
+--------------------------------------------------
+*
+*
+
+4) What does Data Mining vs Data Warehousing Do ?
+-------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining vs Data Warehousing :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining vs Data Warehousing :
+--------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining vs Data Warehousing :
+------------------------------------------------
+*
+*
+_______________________________________________________________________
+
+ 16. <<<<<<<<< Social Media Data Mining >>>>>>>>>
+__________________________________________________
+     Social Media Data Mining                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Social Media Data Mining
+                                                                                        
+2) Definition of Social Media Data Mining ?
+-------------------------------------------
+*
+ 
+3) What is Social Media Data Mining About ?
+-------------------------------------------
+*
+*
+
+4) What does Social Media Data Mining Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Social Media Data Mining :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Social Media Data Mining :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Social Media Data Mining :
+-----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 17. <<<<<<<<< Data Mining Bayesian Classification >>>>>>>>>
+__________________________________________________
+    Data Mining Bayesian Classification           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining Bayesian Classification
+                                                                                        
+2) Definition of Data Mining Bayesian Classification ?
+------------------------------------------------------
+*
+ 
+3) What is Data Mining Bayesian Classification About ?
+------------------------------------------------------
+*
+*
+
+4) What does Data Mining Bayesian Classification Do ?
+-----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining Bayesian Classification :
+---------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining Bayesian Classification :
+------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining Bayesian Classification :
+----------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 18. <<<<<<<<< Data Mining World Wide Web >>>>>>>>>
+__________________________________________________
+     Data Mining World Wide Web                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining World Wide Web
+                                                                                        
+2) Definition of Data Mining World Wide Web ?
+---------------------------------------------
+*
+ 
+3) What is Data Mining World Wide Web About ?
+---------------------------------------------
+*
+*
+
+4) What does Data Mining World Wide Web Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining World Wide Web :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining World Wide Web :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining World Wide Web :
+-------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 19. <<<<<<<<< Different types of Clustering Algorithm >>>>>>>>>
+__________________________________________________
+    Different types of Clustering Algorithm       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Different types of Clustering Algorithm
+                                                                                        
+2) Definition of Different types of Clustering Algorithm ?
+----------------------------------------------------------
+*
+ 
+3) What is Different types of Clustering Algorithm About ?
+----------------------------------------------------------
+*
+*
+
+4) What does Different types of Clustering Algorithm Do ?
+---------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Different types of Clustering Algorithm :
+-------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Different types of Clustering Algorithm :
+----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Different types of Clustering Algorithm :
+--------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 20. <<<<<<<<< Bitcoin Data Mining >>>>>>>>>
+__________________________________________________
+    Bitcoin Data Mining                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Bitcoin Data Mining
+                                                                                        
+2) Definition of Bitcoin Data Mining ?
+--------------------------------------
+*
+ 
+3) What is Bitcoin Data Mining About ?
+--------------------------------------
+*
+*
+
+4) What does Bitcoin Data Mining Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Bitcoin Data Mining :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Bitcoin Data Mining :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Bitcoin Data Mining :
+------------------------------------
+*
+*
+_______________________________________________________________________
+
+ 21. <<<<<<<<< Orange Data Mining >>>>>>>>>
+__________________________________________________
+      Orange Data Mining                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Orange Data Mining
+                                                                                        
+2) Definition of Orange Data Mining ?
+-------------------------------------
+*
+ 
+3) What is Orange Data Mining About ?
+-------------------------------------
+*
+*
+
+4) What does Orange Data Mining Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Orange Data Mining :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Orange Data Mining :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Orange Data Mining :
+-----------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 22. <<<<<<<<< Data Mining vs Big Data >>>>>>>>>
+__________________________________________________
+   Data Mining vs Big Data                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining vs Big Data
+                                                                                        
+2) Definition of Data Mining vs Big Data ?
+------------------------------------------
+*
+ 
+3) What is Data Mining vs Big Data About ?
+------------------------------------------
+*
+*
+
+4) What does Data Mining vs Big Data Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining vs Big Data :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining vs Big Data :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining vs Big Data :
+----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 23. <<<<<<<<< Decision Tree Induction >>>>>>>>>
+__________________________________________________
+     Decision Tree Induction                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Decision Tree Induction
+                                                                                        
+2) Definition of Decision Tree Induction ?
+------------------------------------------
+*
+ 
+3) What is Decision Tree Induction About ?
+------------------------------------------
+*
+*
+
+4) What does Decision Tree Induction Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Decision Tree Induction :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Decision Tree Induction :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Decision Tree Induction :
+----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 24. <<<<<<<<< Educational Data Mining >>>>>>>>>
+__________________________________________________
+    Educational Data Mining                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Educational Data Mining
+                                                                                        
+2) Definition of Educational Data Mining ?
+------------------------------------------
+*
+ 
+3) What is Educational Data Mining About ?
+------------------------------------------
+*
+*
+
+4) What does Educational Data Mining Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Educational Data Mining :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Educational Data Mining :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Educational Data Mining :
+----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 25. <<<<<<<<< Data Mining in Healthcare >>>>>>>>>
+__________________________________________________
+     Data Mining in Healthcare                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining in Healthcare
+                                                                                        
+2) Definition of Data Mining in Healthcare ?
+--------------------------------------------
+*
+ 
+3) What is Data Mining in Healthcare About ?
+--------------------------------------------
+*
+*
+
+4) What does Data Mining in Healthcare Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining in Healthcare :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining in Healthcare :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining in Healthcare :
+------------------------------------------
+*
+*
+_______________________________________________________________________
+        
+ 26. <<<<<<<<< Apriori Algorithm >>>>>>>>>
+__________________________________________________
+    Apriori Algorithm                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Apriori Algorithm
+                                                                                        
+2) Definition of Apriori Algorithm ?
+------------------------------------
+*
+ 
+3) What is Apriori Algorithm About ?
+------------------------------------
+*
+*
+
+4) What does Apriori Algorithm Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Apriori Algorithm :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Apriori Algorithm :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Apriori Algorithm :
+----------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 27. <<<<<<<<< Data Integration in Data Mining >>>>>>>>>
+__________________________________________________
+    Data Integration in Data Mining               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Integration in Data Mining
+                                                                                        
+2) Definition of Data Integration in Data Mining ?
+--------------------------------------------------
+*
+ 
+3) What is Data Integration in Data Mining About ?
+--------------------------------------------------
+*
+*
+
+4) What does Data Integration in Data Mining Do ?
+-------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Integration in Data Mining :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Integration in Data Mining :
+--------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Integration in Data Mining :
+------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 28. <<<<<<<<< Data mining vs Text mining >>>>>>>>>
+__________________________________________________
+     Data mining vs Text mining                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data mining vs Text mining
+                                                                                        
+2) Definition of Data mining vs Text mining ?
+---------------------------------------------
+*
+ 
+3) What is Data mining vs Text mining About ?
+---------------------------------------------
+*
+*
+
+4) What does Data mining vs Text mining Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data mining vs Text mining :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data mining vs Text mining :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data mining vs Text mining :
+-------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 29. <<<<<<<<< Discretization in data mining >>>>>>>>>
+__________________________________________________
+    Discretization in data mining                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Discretization in data mining
+                                                                                        
+2) Definition of Discretization in data mining ?
+------------------------------------------------
+*
+ 
+3) What is Discretization in data mining About ?
+------------------------------------------------
+*
+*
+
+4) What does Discretization in data mining Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Discretization in data mining :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Discretization in data mining :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Discretization in data mining :
+----------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 30. <<<<<<<<< Redundancy and Correlation in Data Mining >>>>>>>>>
+__________________________________________________
+    Redundancy and Correlation in Data Mining     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Redundancy and Correlation in Data Mining
+                                                                                        
+2) Definition of Redundancy and Correlation in Data Mining ?
+------------------------------------------------------------
+*
+ 
+3) What is Redundancy and Correlation in Data Mining About ?
+------------------------------------------------------------
+*
+*
+
+4) What does Redundancy and Correlation in Data Mining Do ?
+-----------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Redundancy and Correlation in Data Mining :
+---------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Redundancy and Correlation in Data Mining :
+------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Redundancy and Correlation in Data Mining :
+----------------------------------------------------------
+*
+*
+_______________________________________________________________________
+        
+ 31. <<<<<<<<< Classification of Data Mining Systems >>>>>>>>>
+__________________________________________________
+    Classification of Data Mining Systems         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Classification of Data Mining Systems
+                                                                                        
+2) Definition of Classification of Data Mining Systems ?
+--------------------------------------------------------
+*
+ 
+3) What is Classification of Data Mining Systems About ?
+--------------------------------------------------------
+*
+*
+
+4) What does Classification of Data Mining Systems Do ?
+-------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Classification of Data Mining Systems :
+-----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Classification of Data Mining Systems :
+--------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Classification of Data Mining Systems :
+------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 32. <<<<<<<<< Data Mining Models >>>>>>>>>
+__________________________________________________
+    Data Mining Models                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining Models
+                                                                                        
+2) Definition of Data Mining Models ?
+-------------------------------------
+*
+ 
+3) What is Data Mining Models About ?
+-------------------------------------
+*
+*
+
+4) What does Data Mining Models Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining Models :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining Models :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining Models :
+-----------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 33. <<<<<<<<< Data mining vs Data Science >>>>>>>>>
+__________________________________________________
+      Data mining vs Data Science                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data mining vs Data Science
+                                                                                        
+2) Definition of Data mining vs Data Science ?
+----------------------------------------------
+*
+ 
+3) What is Data mining vs Data Science About ?
+----------------------------------------------
+* 
+*
+
+4) What does Data mining vs Data Science Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data mining vs Data Science :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data mining vs Data Science :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data mining vs Data Science :
+--------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 34. <<<<<<<<< Data Mining vs Statistics >>>>>>>>>
+__________________________________________________
+   Data Mining vs Statistics                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining vs Statistics
+                                                                                        
+2) Definition of Data Mining vs Statistics ?
+--------------------------------------------
+*
+ 
+3) What is Data Mining vs Statistics About ?
+--------------------------------------------
+*
+*
+
+4) What does Data Mining vs Statistics Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining vs Statistics :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining vs Statistics :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining vs Statistics :
+------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 35. <<<<<<<<< Data Mining vs Web Mining >>>>>>>>>
+__________________________________________________
+    Data Mining vs Web Mining                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining vs Web Mining
+                                                                                        
+2) Definition of Data Mining vs Web Mining ?
+--------------------------------------------
+*
+ 
+3) What is Data Mining vs Web Mining About ?
+--------------------------------------------
+*
+*
+
+4) What does Data Mining vs Web Mining Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining vs Web Mining :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining vs Web Mining :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining vs Web Mining :
+------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 36. <<<<<<<<< Data Mining vs Data Analysis >>>>>>>>>
+__________________________________________________
+     Data Mining vs Data Analysis                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining vs Data Analysis
+                                                                                        
+2) Definition of Data Mining vs Data Analysis ?
+-----------------------------------------------
+*
+ 
+3) What is Data Mining vs Data Analysis About ?
+-----------------------------------------------
+*
+*
+
+4) What does Data Mining vs Data Analysis Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining vs Data Analysis :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining vs Data Analysis :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining vs Data Analysis :
+---------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 37. <<<<<<<<< Business Intelligence vs Data Mining >>>>>>>>>
+__________________________________________________
+     Business Intelligence vs Data Mining         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Business Intelligence vs Data Mining
+                                                                                        
+2) Definition of Business Intelligence vs Data Mining ?
+-------------------------------------------------------
+*
+ 
+3) What is Business Intelligence vs Data Mining About ?
+-------------------------------------------------------
+*
+*
+
+4) What does Business Intelligence vs Data Mining Do ?
+------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Business Intelligence vs Data Mining :
+----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Business Intelligence vs Data Mining :
+-------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Business Intelligence vs Data Mining :
+-----------------------------------------------------
+*
+*
+_______________________________________________________________________
+
+ 38. <<<<<<<<< Data Mining vs Data Visualization >>>>>>>>>
+__________________________________________________
+    Data Mining vs Data Visualization             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining vs Data Visualization
+                                                                                        
+2) Definition of Data Mining vs Data Visualization ?
+----------------------------------------------------
+*
+ 
+3) What is Data Mining vs Data Visualization About ?
+----------------------------------------------------
+*
+*
+
+4) What does Data Mining vs Data Visualization Do ?
+---------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining vs Data Visualization :
+-------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining vs Data Visualization :
+----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining vs Data Visualization :
+--------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 39. <<<<<<<<< Data Mining vs Data Analytics >>>>>>>>>
+__________________________________________________
+    Data Mining vs Data Analytics                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining vs Data Analytics
+                                                                                        
+2) Definition of Data Mining vs Data Analytics ?
+------------------------------------------------
+*
+ 
+3) What is Data Mining vs Data Analytics About ?
+------------------------------------------------
+*
+*
+
+4) What does Data Mining vs Data Analytics Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining vs Data Analytics :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining vs Data Analytics :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining vs Data Analytics :
+----------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 40. <<<<<<<<< Types of Data Mining >>>>>>>>>
+__________________________________________________
+     Types of Data Mining                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Types of Data Mining
+                                                                                        
+2) Definition of Types of Data Mining ?
+---------------------------------------
+*
+ 
+3) What is Types of Data Mining About ?
+---------------------------------------
+*
+*
+
+4) What does Types of Data Mining Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Types of Data Mining :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Types of Data Mining :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Types of Data Mining :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 41. <<<<<<<<< Data Profiling vs Data Mining >>>>>>>>>
+__________________________________________________
+     Data Profiling vs Data Mining                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Profiling vs Data Mining
+                                                                                        
+2) Definition of Data Profiling vs Data Mining ?
+------------------------------------------------
+*
+ 
+3) What is Data Profiling vs Data Mining About ?
+------------------------------------------------
+*
+*
+
+4) What does Data Profiling vs Data Mining Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Profiling vs Data Mining :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Profiling vs Data Mining :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Profiling vs Data Mining :
+----------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 42. <<<<<<<<< Predictive Analytics vs Data Mining >>>>>>>>>
+__________________________________________________
+     Predictive Analytics vs Data Mining          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Predictive Analytics vs Data Mining
+                                                                                        
+2) Definition of Predictive Analytics vs Data Mining ?
+------------------------------------------------------
+*
+ 
+3) What is Predictive Analytics vs Data Mining About ?
+------------------------------------------------------
+*
+*
+
+4) What does Predictive Analytics vs Data Mining Do ?
+-----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Predictive Analytics vs Data Mining :
+---------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Predictive Analytics vs Data Mining :
+------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Predictive Analytics vs Data Mining :
+----------------------------------------------------
+*
+*
+_______________________________________________________________________
+        
+ 43. <<<<<<<<< Data Mining vs OLAP >>>>>>>>>
+__________________________________________________
+      Data Mining vs OLAP                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining vs OLAP
+                                                                                        
+2) Definition of Data Mining vs OLAP ?
+--------------------------------------
+*
+ 
+3) What is Data Mining vs OLAP About ?
+--------------------------------------
+*
+*
+
+4) What does Data Mining vs OLAP Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining vs OLAP :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining vs OLAP :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining vs OLAP :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 44. <<<<<<<<< Descriptive vs Predictive Data Mining >>>>>>>>>
+__________________________________________________
+    Descriptive vs Predictive Data Mining         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Descriptive vs Predictive Data Mining
+                                                                                        
+2) Definition of Descriptive vs Predictive Data Mining ?
+--------------------------------------------------------
+*
+ 
+3) What is Descriptive vs Predictive Data Mining About ?
+--------------------------------------------------------
+*
+*
+
+4) What does Descriptive vs Predictive Data Mining Do ?
+-------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Descriptive vs Predictive Data Mining :
+-----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Descriptive vs Predictive Data Mining :
+--------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Descriptive vs Predictive Data Mining :
+------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 45. <<<<<<<<< Spatial vs Temporal Data Mining >>>>>>>>>
+__________________________________________________
+    Spatial vs Temporal Data Mining               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Spatial vs Temporal Data Mining
+                                                                                        
+2) Definition of Spatial vs Temporal Data Mining ?
+--------------------------------------------------
+*
+ 
+3) What is Spatial vs Temporal Data Mining About ?
+--------------------------------------------------
+*
+*
+
+4) What does Spatial vs Temporal Data Mining Do ?
+-------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Spatial vs Temporal Data Mining :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Spatial vs Temporal Data Mining :
+--------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Spatial vs Temporal Data Mining :
+------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 46. <<<<<<<<< classification vs clustering >>>>>>>>>
+__________________________________________________
+    classification vs clustering                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* classification vs clustering
+                                                                                        
+2) Definition of classification vs clustering ?
+-----------------------------------------------
+*
+ 
+3) What is classification vs clustering About ?
+-----------------------------------------------
+*
+*
+
+4) What does classification vs clustering Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of classification vs clustering :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of classification vs clustering :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of classification vs clustering :
+---------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 47. <<<<<<<<< Hierarchical clustering in data mining >>>>>>>>>
+__________________________________________________
+    Hierarchical clustering in data mining        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Hierarchical clustering in data mining
+                                                                                        
+2) Definition of Hierarchical clustering in data mining ?
+---------------------------------------------------------
+*
+ 
+3) What is Hierarchical clustering in data mining About ?
+---------------------------------------------------------
+*
+*
+
+4) What does Hierarchical clustering in data mining Do ?
+--------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Hierarchical clustering in data mining :
+------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Hierarchical clustering in data mining :
+---------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Hierarchical clustering in data mining :
+-------------------------------------------------------
+*
+*
+_______________________________________________________________________
+
+ 48. <<<<<<<<< Density-based clustering in data mining >>>>>>>>>
+__________________________________________________
+      Density-based clustering in data mining     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Density-based clustering in data mining
+                                                                                        
+2) Definition of Density-based clustering in data mining ?
+----------------------------------------------------------
+*
+ 
+3) What is Density-based clustering in data mining About ?
+----------------------------------------------------------
+*
+*
+
+4) What does Density-based clustering in data mining Do ?
+---------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Density-based clustering in data mining :
+-------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Density-based clustering in data mining :
+----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Density-based clustering in data mining :
+--------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 49. <<<<<<<<< Aggregation in data mining >>>>>>>>>
+__________________________________________________
+    Aggregation in data mining                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Aggregation in data mining
+                                                                                        
+2) Definition of Aggregation in data mining ?
+---------------------------------------------
+*
+ 
+3) What is Aggregation in data mining About ?
+---------------------------------------------
+*
+*
+
+4) What does Aggregation in data mining Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Aggregation in data mining :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Aggregation in data mining :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Aggregation in data mining :
+-------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 50. <<<<<<<<< Regression in data mining >>>>>>>>>
+__________________________________________________
+    Regression in data mining                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Regression in data mining
+                                                                                        
+2) Definition of Regression in data mining ?
+--------------------------------------------
+*
+ 
+3) What is Regression in data mining About ?
+--------------------------------------------
+*
+*
+
+4) What does Regression in data mining Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Regression in data mining :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Regression in data mining :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Regression in data mining :
+------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 51. <<<<<<<<< What is Outlier in data mining >>>>>>>>>
+__________________________________________________
+    What is Outlier in data mining                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* What is Outlier in data mining
+                                                                                        
+2) Definition of What is Outlier in data mining ?
+-------------------------------------------------
+*
+ 
+3) What is Outlier in data mining About ?
+-----------------------------------------
+*
+*
+
+4) What does Outlier in data mining Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Outlier in data mining :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Outlier in data mining :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Outlier in data mining :
+---------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 52. <<<<<<<<< Data Cleaning in Data Mining >>>>>>>>>
+__________________________________________________
+     Data Cleaning in Data Mining                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Cleaning in Data Mining
+                                                                                        
+2) Definition of Data Cleaning in Data Mining ?
+-----------------------------------------------
+*
+ 
+3) What is Data Cleaning in Data Mining About ?
+-----------------------------------------------
+*
+*
+
+4) What does Data Cleaning in Data Mining Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Cleaning in Data Mining :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Cleaning in Data Mining :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Cleaning in Data Mining :
+---------------------------------------------
+*
+*
+_______________________________________________________________________
+
+ 53. <<<<<<<<< Data Processing in Data Mining >>>>>>>>>
+__________________________________________________
+     Data Processing in Data Mining               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Processing in Data Mining
+                                                                                        
+2) Definition of Data Processing in Data Mining ?
+-------------------------------------------------
+*
+ 
+3) What is Data Processing in Data Mining About ?
+-------------------------------------------------
+*
+*
+
+4) What does Data Processing in Data Mining Do ?
+------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Processing in Data Mining :
+----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Processing in Data Mining :
+-------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Processing in Data Mining :
+-----------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 54. <<<<<<<<< Classification and Predication in Data Mining >>>>>>>>>
+__________________________________________________
+    Classification and Predication in Data Mining |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Classification and Predication in Data Mining
+                                                                                        
+2) Definition of Classification and Predication in Data Mining ?
+----------------------------------------------------------------
+*
+ 
+3) What is Classification and Predication in Data Mining About ?
+----------------------------------------------------------------
+*
+*
+
+4) What does Classification and Predication in Data Mining Do ?
+---------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Classification and Predication in Data Mining :
+-------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Classification and Predication in Data Mining :
+----------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Classification and Predication in Data Mining :
+--------------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 55. <<<<<<<<< Data Mining Task Primitives >>>>>>>>>
+__________________________________________________
+    Data Mining Task Primitives                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining Task Primitives
+                                                                                        
+2) Definition of Data Mining Task Primitives ?
+----------------------------------------------
+*
+ 
+3) What is Data Mining Task Primitives About ?
+----------------------------------------------
+*
+*
+
+4) What does Data Mining Task Primitives Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining Task Primitives :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining Task Primitives :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining Task Primitives :
+--------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 56. <<<<<<<<< Web Content vs Web Structure vs Web Usage Mining >>>>>>>>>
+______________________________________________________
+    Web Content vs Web Structure vs Web Usage Mining  |
+                                                      |                  
+______________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Web Content vs Web Structure vs Web Usage Mining
+                                                                                        
+2) Definition of Web Content vs Web Structure vs Web Usage Mining ?
+-------------------------------------------------------------------
+*
+ 
+3) What is Web Content vs Web Structure vs Web Usage Mining About ?
+-------------------------------------------------------------------
+*
+*
+
+4) What does Web Content vs Web Structure vs Web Usage Mining Do ?
+------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Web Content vs Web Structure vs Web Usage Mining :
+----------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Web Content vs Web Structure vs Web Usage Mining :
+-------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Web Content vs Web Structure vs Web Usage Mining :
+-----------------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 57. <<<<<<<<< What is Binning in Data Mining >>>>>>>>>
+__________________________________________________
+    What is Binning in Data Mining                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* What is Binning in Data Mining
+                                                                                        
+2) Definition of What is Binning in Data Mining ?
+-------------------------------------------------
+*
+ 
+3) What is What is Binning in Data Mining About ?
+-------------------------------------------------
+*
+*
+
+4) What does What is Binning in Data Mining Do ?
+------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of What is Binning in Data Mining :
+----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of What is Binning in Data Mining :
+-------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of What is Binning in Data Mining :
+-----------------------------------------------
+*
+*
+_______________________________________________________________________
+        
+ 58. <<<<<<<<< KDD vs Data Mining >>>>>>>>>
+__________________________________________________
+      KDD vs Data Mining                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* KDD vs Data Mining
+                                                                                        
+2) Definition of KDD vs Data Mining ?
+-------------------------------------
+*
+ 
+3) What is KDD vs Data Mining About ?
+-------------------------------------
+*
+*
+
+4) What does KDD vs Data Mining Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of KDD vs Data Mining :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of KDD vs Data Mining :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of KDD vs Data Mining :
+-----------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 59. <<<<<<<<< What is Noise in Data Mining >>>>>>>>>
+__________________________________________________
+    What is Noise in Data Mining                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* What is Noise in Data Mining
+                                                                                        
+2) Definition of Noise in Data Mining ?
+---------------------------------------
+*
+ 
+3) What is Noise in Data Mining About ?
+---------------------------------------
+*
+*
+
+4) What does Noise in Data Mining Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Noise in Data Mining :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Noise in Data Mining :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Noise in Data Mining :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 60. <<<<<<<<< BIRCH in Data Mining >>>>>>>>>
+__________________________________________________
+    BIRCH in Data Mining                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* BIRCH in Data Mining
+                                                                                        
+2) Definition of BIRCH in Data Mining ?
+---------------------------------------
+*
+ 
+3) What is BIRCH in Data Mining About ?
+---------------------------------------
+*
+*
+
+4) What does BIRCH in Data Mining Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of BIRCH in Data Mining :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of BIRCH in Data Mining :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of BIRCH in Data Mining :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 61. <<<<<<<<< Stemming in Data Mining >>>>>>>>>
+__________________________________________________
+     Stemming in Data Mining                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Stemming in Data Mining
+                                                                                        
+2) Definition of Stemming in Data Mining ?
+------------------------------------------
+*
+ 
+3) What is Stemming in Data Mining About ?
+------------------------------------------
+*
+*
+
+4) What does Stemming in Data Mining Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Stemming in Data Mining :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Stemming in Data Mining :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Stemming in Data Mining :
+----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 62. <<<<<<<<< Feature Transformation in Data Mining >>>>>>>>>
+__________________________________________________
+     Feature Transformation in Data Mining        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Feature Transformation in Data Mining
+                                                                                        
+2) Definition of Feature Transformation in Data Mining ?
+--------------------------------------------------------
+*
+ 
+3) What is Feature Transformation in Data Mining About ?
+--------------------------------------------------------
+*
+*
+
+4) What does Feature Transformation in Data Mining Do ?
+-------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Feature Transformation in Data Mining :
+-----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Feature Transformation in Data Mining :
+--------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Feature Transformation in Data Mining :
+------------------------------------------------------
+*
+*
+_______________________________________________________________________
+        
+ 63. <<<<<<<<< Visual and Audio Data Mining >>>>>>>>>
+__________________________________________________
+    Visual and Audio Data Mining                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Visual and Audio Data Mining
+                                                                                        
+2) Definition of Visual and Audio Data Mining ?
+-----------------------------------------------
+*
+ 
+3) What is Visual and Audio Data Mining About ?
+-----------------------------------------------
+*
+*
+
+4) What does Visual and Audio Data Mining Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Visual and Audio Data Mining :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Visual and Audio Data Mining :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Visual and Audio Data Mining :
+---------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 64. <<<<<<<<< Class Comparison Methods in Data Mining >>>>>>>>>
+__________________________________________________
+     Class Comparison Methods in Data Mining      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Class Comparison Methods in Data Mining
+                                                                                        
+2) Definition of Class Comparison Methods in Data Mining ?
+----------------------------------------------------------
+*
+ 
+3) What is Class Comparison Methods in Data Mining About ?
+----------------------------------------------------------
+*
+*
+
+4) What does Class Comparison Methods in Data Mining Do ?
+---------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Class Comparison Methods in Data Mining :
+-------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Class Comparison Methods in Data Mining :
+----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Class Comparison Methods in Data Mining :
+--------------------------------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 65. <<<<<<<<< Data Selection in Data Mining >>>>>>>>>
+__________________________________________________
+      Data Selection in Data Mining               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Selection in Data Mining
+                                                                                        
+2) Definition of Data Selection in Data Mining ?
+------------------------------------------------
+*
+ 
+3) What is Data Selection in Data Mining About ?
+------------------------------------------------
+*
+*
+
+4) What does Data Selection in Data Mining Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Selection in Data Mining :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Selection in Data Mining :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Selection in Data Mining :
+----------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 66. <<<<<<<<< Tasks and Functionalities of Data Mining >>>>>>>>>
+__________________________________________________
+    Tasks and Functionalities of Data Mining      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Tasks and Functionalities of Data Mining
+                                                                                        
+2) Definition of Tasks and Functionalities of Data Mining ?
+-----------------------------------------------------------
+*
+ 
+3) What is Tasks and Functionalities of Data Mining About ?
+-----------------------------------------------------------
+*
+*
+
+4) What does Tasks and Functionalities of Data Mining Do ?
+----------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Tasks and Functionalities of Data Mining :
+--------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Tasks and Functionalities of Data Mining :
+-----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Tasks and Functionalities of Data Mining :
+---------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 67. <<<<<<<<< Ubiquitous and Invisible Data Mining >>>>>>>>>
+__________________________________________________
+    Ubiquitous and Invisible Data Mining          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Ubiquitous and Invisible Data Mining
+                                                                                        
+2) Definition of Ubiquitous and Invisible Data Mining ?
+-------------------------------------------------------
+*
+ 
+3) What is Ubiquitous and Invisible Data Mining About ?
+-------------------------------------------------------
+*
+*
+
+4) What does Ubiquitous and Invisible Data Mining Do ?
+------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Ubiquitous and Invisible Data Mining :
+----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Ubiquitous and Invisible Data Mining :
+-------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Ubiquitous and Invisible Data Mining :
+-----------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 68. <<<<<<<<< Entity Identification Problem in Data Mining >>>>>>>>>
+__________________________________________________
+    Entity Identification Problem in Data Mining  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Entity Identification Problem in Data Mining
+                                                                                        
+2) Definition of Entity Identification Problem in Data Mining ?
+---------------------------------------------------------------
+*
+ 
+3) What is Entity Identification Problem in Data Mining About ?
+---------------------------------------------------------------
+*
+*
+
+4) What does Entity Identification Problem in Data Mining Do ?
+--------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Entity Identification Problem in Data Mining :
+------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Entity Identification Problem in Data Mining :
+---------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Entity Identification Problem in Data Mining :
+-------------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 69. <<<<<<<<< Numerosity Reduction in Data Mining >>>>>>>>>
+__________________________________________________
+     Numerosity Reduction in Data Mining          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Numerosity Reduction in Data Mining
+                                                                                        
+2) Definition of Numerosity Reduction in Data Mining ?
+------------------------------------------------------
+*
+ 
+3) What is Numerosity Reduction in Data Mining About ?
+------------------------------------------------------
+*
+*
+
+4) What does Numerosity Reduction in Data Mining Do ?
+-----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Numerosity Reduction in Data Mining :
+---------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Numerosity Reduction in Data Mining :
+------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Numerosity Reduction in Data Mining :
+----------------------------------------------------
+*
+*
+_______________________________________________________________________
+
+ 70. <<<<<<<<< Market Basket Analysis in Data Mining >>>>>>>>>
+__________________________________________________
+      Market Basket Analysis in Data Mining       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Market Basket Analysis in Data Mining
+                                                                                        
+2) Definition of Market Basket Analysis in Data Mining ?
+--------------------------------------------------------
+*
+ 
+3) What is Market Basket Analysis in Data Mining About ?
+--------------------------------------------------------
+*
+*
+
+4) What does Market Basket Analysis in Data Mining Do ?
+-------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Market Basket Analysis in Data Mining :
+-----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Market Basket Analysis in Data Mining :
+--------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Market Basket Analysis in Data Mining :
+------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 71. <<<<<<<<< What is Multimedia Data Mining >>>>>>>>>
+__________________________________________________
+     What is Multimedia Data Mining               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* What is Multimedia Data Mining
+                                                                                        
+2) Definition of Multimedia Data Mining ?
+-----------------------------------------
+*
+ 
+3) What is Multimedia Data Mining About ?
+-----------------------------------------
+*
+*
+
+4) What does Multimedia Data Mining Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Multimedia Data Mining :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Multimedia Data Mining :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Multimedia Data Mining :
+---------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 72. <<<<<<<<< Correlation Analysis in Data Mining >>>>>>>>>
+__________________________________________________
+     Correlation Analysis in Data Mining          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Correlation Analysis in Data Mining
+                                                                                        
+2) Definition of Correlation Analysis in Data Mining ?
+------------------------------------------------------
+*
+ 
+3) What is Correlation Analysis in Data Mining About ?
+------------------------------------------------------
+*
+*
+
+4) What does Correlation Analysis in Data Mining Do ?
+-----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Correlation Analysis in Data Mining :
+---------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Correlation Analysis in Data Mining :
+------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Correlation Analysis in Data Mining :
+----------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 73. <<<<<<<<< Data Mining Services >>>>>>>>>
+__________________________________________________
+    Data Mining Services                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining Services
+                                                                                        
+2) Definition of Data Mining Services ?
+---------------------------------------
+*
+ 
+3) What is Data Mining Services About ?
+---------------------------------------
+*
+*
+
+4) What does Data Mining Services Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining Services :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining Services :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining Services :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 74. <<<<<<<<< Trends in Data Mining >>>>>>>>>
+__________________________________________________
+    Trends in Data Mining                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Trends in Data Mining
+                                                                                        
+2) Definition of Trends in Data Mining ?
+----------------------------------------
+*
+ 
+3) What is Trends in Data Mining About ?
+----------------------------------------
+*
+*
+
+4) What does Trends in Data Mining Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Trends in Data Mining :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Trends in Data Mining :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Trends in Data Mining :
+--------------------------------------
+*
+*
+_______________________________________________________________________
+        
+ 75. <<<<<<<<< Data Harvesting vs Data Mining >>>>>>>>>
+__________________________________________________
+     Data Harvesting vs Data Mining               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Harvesting vs Data Mining
+                                                                                        
+2) Definition of Data Harvesting vs Data Mining ?
+-------------------------------------------------
+*
+ 
+3) What is Data Harvesting vs Data Mining About ?
+-------------------------------------------------
+*
+*
+
+4) What does Data Harvesting vs Data Mining Do ?
+------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Harvesting vs Data Mining :
+----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Harvesting vs Data Mining :
+-------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Harvesting vs Data Mining :
+-----------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 76. <<<<<<<<< Data Mining vs Artificial Intelligence >>>>>>>>>
+__________________________________________________
+    Data Mining vs Artificial Intelligence        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining vs Artificial Intelligence
+                                                                                        
+2) Definition of Data Mining vs Artificial Intelligence ?
+---------------------------------------------------------
+*
+ 
+3) What is Data Mining vs Artificial Intelligence About ?
+---------------------------------------------------------
+*
+*
+
+4) What does Data Mining vs Artificial Intelligence Do ?
+--------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining vs Artificial Intelligence :
+------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining vs Artificial Intelligence :
+---------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining vs Artificial Intelligence :
+-------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 77. <<<<<<<<< Data Mining vs Data Exploration >>>>>>>>>
+__________________________________________________
+    Data Mining vs Data Exploration               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining vs Data Exploration
+                                                                                        
+2) Definition of Data Mining vs Data Exploration ?
+--------------------------------------------------
+*
+ 
+3) What is Data Mining vs Data Exploration About ?
+--------------------------------------------------
+*
+*
+
+4) What does Data Mining vs Data Exploration Do ?
+-------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining vs Data Exploration :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining vs Data Exploration :
+--------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining vs Data Exploration :
+------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 78. <<<<<<<<< Data Mining vs Process Mining >>>>>>>>>
+__________________________________________________
+    Data Mining vs Process Mining                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining vs Process Mining
+                                                                                        
+2) Definition of Data Mining vs Process Mining ?
+------------------------------------------------
+*
+ 
+3) What is Data Mining vs Process Mining About ?
+------------------------------------------------
+*
+*
+
+4) What does Data Mining vs Process Mining Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining vs Process Mining :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining vs Process Mining :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining vs Process Mining :
+----------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 79. <<<<<<<<< Web Scraping vs Data Mining >>>>>>>>>
+__________________________________________________
+     Web Scraping vs Data Mining                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Web Scraping vs Data Mining
+                                                                                        
+2) Definition of Web Scraping vs Data Mining ?
+----------------------------------------------
+*
+ 
+3) What is Web Scraping vs Data Mining About ?
+----------------------------------------------
+*
+*
+
+4) What does Web Scraping vs Data Mining Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Web Scraping vs Data Mining :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Web Scraping vs Data Mining :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Web Scraping vs Data Mining :
+--------------------------------------------
+*
+*
+_______________________________________________________________________
+
+ 80. <<<<<<<<< Data Wrangling >>>>>>>>>
+__________________________________________________
+     Data Wrangling                               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Wrangling
+                                                                                        
+2) Definition of Data Wrangling ?
+---------------------------------
+*
+ 
+3) What is Data Wrangling About ?
+---------------------------------
+*
+*
+
+4) What does Data Wrangling Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Wrangling :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Wrangling :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Wrangling :
+-------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 81. <<<<<<<<< What is Boosting in Data Mining >>>>>>>>>
+__________________________________________________
+    What is Boosting in Data Mining               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* What is Boosting in Data Mining
+                                                                                        
+2) Definition of Boosting in Data Mining ?
+------------------------------------------
+*
+ 
+3) What is Boosting in Data Mining About ?
+------------------------------------------
+*
+*
+
+4) What does Boosting in Data Mining Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Boosting in Data Mining :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Boosting in Data Mining :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Boosting in Data Mining :
+----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 82. <<<<<<<<< What is Forecasting in Data Mining >>>>>>>>>
+__________________________________________________
+     What is Forecasting in Data Mining           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* What is Forecasting in Data Mining
+                                                                                        
+2) Definition of Forecasting in Data Mining ?
+---------------------------------------------
+*
+ 
+3) What is Forecasting in Data Mining About ?
+---------------------------------------------
+*
+*
+
+4) What does Forecasting in Data Mining Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Forecasting in Data Mining :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Forecasting in Data Mining :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Forecasting in Data Mining :
+-------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 83. <<<<<<<<< What is CRISP in Data Mining >>>>>>>>>
+__________________________________________________
+    What is CRISP in Data Mining                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* What is CRISP in Data Mining
+                                                                                        
+2) Definition of CRISP in Data Mining ?
+---------------------------------------
+*
+ 
+3) What is CRISP in Data Mining About ?
+---------------------------------------
+*
+*
+
+4) What does CRISP in Data Mining Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of CRISP in Data Mining :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of CRISP in Data Mining :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of CRISP in Data Mining :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 84. <<<<<<<<< MCQ >>>>>>>>>
+__________________________________________________
+     MCQ                                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* MCQ
+                                                                                        
+2) Definition of MCQ ?
+----------------------
+*
+ 
+3) What is MCQ About ?
+----------------------
+*
+*
+
+4) What does MCQ Do ?
+---------------------
+*
+*
+
+5) Advantages/Benefits of MCQ :
+-------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of MCQ :
+----------------------------------
+*
+*
+*  
+
+7) Examples of MCQ :
+--------------------
+*
+*
+_______________________________________________________________________
+
+ 85. <<<<<<<<< Data Mining MCQ >>>>>>>>>
+__________________________________________________
+       Data Mining MCQ                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining MCQ
+                                                                                        
+2) Definition of Data Mining MCQ ?
+----------------------------------
+*
+ 
+3) What is Data Mining MCQ About ?
+----------------------------------
+*
+*
+
+4) What does Data Mining MCQ Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining MCQ :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining MCQ :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining MCQ :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 86. <<<<<<<<< Main Purpose of Data Mining >>>>>>>>>
+__________________________________________________
+   Main Purpose of Data Mining                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Main Purpose of Data Mining
+                                                                                        
+2) Definition of Main Purpose of Data Mining ?
+----------------------------------------------
+*
+ 
+3) What is Main Purpose of Data Mining About ?
+----------------------------------------------
+*
+*
+
+4) What does Main Purpose of Data Mining Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Main Purpose of Data Mining :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Main Purpose of Data Mining :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Main Purpose of Data Mining :
+--------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 87. Data Mining can be applied to any Type of Data :
+     ````````````````````````````````````````````````
+          (A)  Data Warehouses
+          (B)  Transactional Databases
+          (C)  Relational Databases
+          (D)  Multimedia Databases
+          (E)  Spatial Databases
+          (F)  Time-series Databases
+          (G)  World Wide Web
+
+(A)  <<<<<<< Data Warehouses >>>>>>>>
+__________________________________________________
+     Data Warehouses                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Warehouses
+                                                                                        
+2) Definition of Data Warehouses ?
+----------------------------------
+*
+ 
+3) What is Data Warehouses About ?
+----------------------------------
+*
+*
+
+4) What does Data Warehouses Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Warehouses :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Warehouses :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Warehouses :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+  (B) <<<<<<<<< Transactional Databases >>>>>>>>>
+__________________________________________________
+    Transactional Databases                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Transactional Databases
+                                                                                        
+2) Definition of Transactional Databases ?
+------------------------------------------
+*
+ 
+3) What is Transactional Databases About ?
+------------------------------------------
+*
+*
+
+4) What does Transactional Databases Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Transactional Databases :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Transactional Databases :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Transactional Databases :
+----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+  (C) <<<<<<<<< Relational Databases >>>>>>>>>
+__________________________________________________
+     Relational Databases                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Relational Databases
+                                                                                        
+2) Definition of Relational Databases ?
+---------------------------------------
+*
+ 
+3) What is Relational Databases About ?
+---------------------------------------
+*
+*
+
+4) What does Relational Databases Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Relational Databases :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Relational Databases :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Relational Databases :
+-------------------------------------
+*
+*
+__________________________________________________________________________________
+
+  (D) <<<<<<<<< Multimedia Databases >>>>>>>>>
+__________________________________________________
+       Multimedia Databases                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Multimedia Databases
+                                                                                        
+2) Definition of Multimedia Databases ?
+---------------------------------------
+*
+ 
+3) What is Multimedia Databases About ?
+---------------------------------------
+*
+*
+
+4) What does Multimedia Databases Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Multimedia Databases :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Multimedia Databases :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Multimedia Databases :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+   (E) <<<<<<<<< Spatial Databases >>>>>>>>>
+__________________________________________________
+    Spatial Databases                             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Spatial Databases
+                                                                                        
+2) Definition of Spatial Databases ?
+------------------------------------
+*
+ 
+3) What is Spatial Databases About ?
+------------------------------------
+*
+*
+
+4) What does Spatial Databases Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Spatial Databases :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Spatial Databases :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Spatial Databases :
+----------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< Time-series Databases >>>>>>>>>
+__________________________________________________
+    Time-series Databases                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Time-series Databases
+                                                                                        
+2) Definition of Time-series Databases ?
+----------------------------------------
+*
+ 
+3) What is Time-series Databases About ?
+----------------------------------------
+*
+*
+
+4) What does Time-series Databases Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Time-series Databases :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Time-series Databases :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Time-series Databases :
+--------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< World Wide Web >>>>>>>>>
+__________________________________________________
+     World Wide Web                               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* World Wide Web
+                                                                                        
+2) Definition of World Wide Web ?
+---------------------------------
+*
+ 
+3) What is World Wide Web About ?
+---------------------------------
+*
+*
+
+4) What does World Wide Web Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of World Wide Web :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of World Wide Web :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of World Wide Web :
+-------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 88. Data Mining Process Consists of Three Main Phases :
+     ```````````````````````````````````````````````````
+         1. Data Pre-processing
+         2. Data Extraction
+         3. Data Evaluation and Presentation
+________________________________________________________
+     Data Mining Process Consists of Three Main Phases  |
+                                                        |                  
+________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Mining Process Consists of Three Main Phases
+                                                                                        
+2) Definition of Data Mining Process Consists of Three Main Phases :
+--------------------------------------------------------------------
+*
+ 
+3) What is Data Mining Process Consists of Three Main Phases About ?
+--------------------------------------------------------------------
+*
+*
+
+4) What does Data Mining Process Consists of Three Main Phases Do ?
+-------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Mining Process Consists of Three Main Phases :
+-----------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Mining Process Consists of Three Main Phases :
+--------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Mining Process Consists of Three Main Phases :
+------------------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 1. <<<<<<<<< Data Pre-processing >>>>>>>>>
+__________________________________________________
+     Data Pre-processing                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Pre-processing
+                                                                                        
+2) Definition of Data Pre-processing ?
+--------------------------------------
+*
+ 
+3) What is Data Pre-processing About ?
+--------------------------------------
+*
+*
+
+4) What does Data Pre-processing Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Pre-processing :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Pre-processing :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Pre-processing :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< Data Extraction >>>>>>>>>
+__________________________________________________
+     Data Extraction                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Extraction
+                                                                                        
+2) Definition of Data Extraction ?
+----------------------------------
+*
+ 
+3) What is Data Extraction About ?
+----------------------------------
+*
+*
+
+4) What does Data Extraction Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Extraction :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Extraction :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Extraction :
+--------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< Data Evaluation and Presentation >>>>>>>>>
+__________________________________________________
+     Data Evaluation and Presentation             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Data Evaluation and Presentation
+                                                                                        
+2) Definition of Data Evaluation and Presentation ?
+---------------------------------------------------
+*
+ 
+3) What is Data Evaluation and Presentation About ?
+---------------------------------------------------
+*
+*
+
+4) What does Data Evaluation and Presentation Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Data Evaluation and Presentation :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Data Evaluation and Presentation :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Data Evaluation and Presentation :
+-------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 89. Applications of Data Mining :
+     ``````````````````````````````
+          (A) Financial Analysis
+          (B) Biological Analysis
+          (C) Scientific Analysis
+          (D) Intrusion Detection
+          (E) Fraud Detection
+          (F) Research Analysis
+          (G) Business Intelligence
+          (H) Web search
+          (I) Bioinformatics
+          (J) Health Informatics
+          (K) Finance
+          (L) Digital Libraries
+          (M) Digital Governments
+__________________________________________________
+     Applications of Data Mining                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Applications of Data Mining
+                                                                                        
+2) Definition of Applications of Data Mining ?
+----------------------------------------------
+*
+ 
+3) What is Applications of Data Mining About ?
+----------------------------------------------
+*
+*
+
+4) What does Applications of Data Mining Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Applications of Data Mining :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Applications of Data Mining :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Applications of Data Mining :
+--------------------------------------------
+*
+*
+_______________________________________________________________________________
+        
+  (A) <<<<<<<<< Financial Analysis >>>>>>>>>
+__________________________________________________
+     Financial Analysis                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Financial Analysis
+                                                                                        
+2) Definition of Financial Analysis ?
+-------------------------------------
+*
+ 
+3) What is Financial Analysis About ?
+-------------------------------------
+*
+*
+
+4) What does Financial Analysis Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Financial Analysis :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Financial Analysis :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Financial Analysis :
+-----------------------------------
+*
+*
+_______________________________________________________________________________
+
+  (B) <<<<<<<<< Biological Analysis >>>>>>>>>
+__________________________________________________
+    Biological Analysis                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Biological Analysis
+                                                                                        
+2) Definition of Biological Analysis ?
+--------------------------------------
+*
+ 
+3) What is Biological Analysis About ?
+--------------------------------------
+*
+*
+
+4) What does Biological Analysis Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Biological Analysis :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Biological Analysis :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Biological Analysis :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+  (C) <<<<<<<<< Scientific Analysis >>>>>>>>>
+__________________________________________________
+    Scientific Analysis                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Scientific Analysis
+                                                                                        
+2) Definition of Scientific Analysis ?
+--------------------------------------
+*
+ 
+3) What is Scientific Analysis About ?
+--------------------------------------
+*
+*
+
+4) What does Scientific Analysis Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Scientific Analysis :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Scientific Analysis :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Scientific Analysis :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+  (D) <<<<<<<<< Intrusion Detection >>>>>>>>>
+__________________________________________________
+    Intrusion Detection                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Intrusion Detection
+                                                                                        
+2) Definition of Intrusion Detection ?
+--------------------------------------
+*
+ 
+3) What is Intrusion Detection About ?
+--------------------------------------
+*
+*
+
+4) What does Intrusion Detection Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Intrusion Detection :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Intrusion Detection :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Intrusion Detection :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+  (E) <<<<<<<<< Fraud Detection >>>>>>>>>
+__________________________________________________
+     Fraud Detection                              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Fraud Detection
+                                                                                        
+2) Definition of Fraud Detection ?
+----------------------------------
+*
+ 
+3) What is Fraud Detection About ?
+----------------------------------
+*
+*
+
+4) What does Fraud Detection Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Fraud Detection :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fraud Detection :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Fraud Detection :
+--------------------------------
+*
+*
+_______________________________________________________________________
+
+  (F) <<<<<<<<< Research Analysis >>>>>>>>>
+__________________________________________________
+       Research Analysis                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Research Analysis
+                                                                                        
+2) Definition of Research Analysis ?
+------------------------------------
+*
+ 
+3) What is Research Analysis About ?
+------------------------------------
+*
+*
+
+4) What does Research Analysis Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Research Analysis :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Research Analysis :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Research Analysis :
+----------------------------------
+*
+*
+_______________________________________________________________________________
+
+  (G) <<<<<<<<< Business Intelligence >>>>>>>>>
+__________________________________________________
+    Business Intelligence                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Business Intelligence
+                                                                                        
+2) Definition of Business Intelligence ?
+----------------------------------------
+*
+ 
+3) What is Business Intelligence About ?
+----------------------------------------
+*
+*
+
+4) What does Business Intelligence Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Business Intelligence :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Business Intelligence :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Business Intelligence :
+--------------------------------------
+*
+*
+_______________________________________________________________________________
+
+  (H) <<<<<<<<< Web search >>>>>>>>>
+__________________________________________________
+    Web search                                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Web search
+                                                                                        
+2) Definition of Web search ?
+-----------------------------
+*
+ 
+3) What is Web search About ?
+-----------------------------
+*
+*
+
+4) What does Web search Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Web search :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Web search :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Web search :
+---------------------------
+*
+*
+_______________________________________________________________________________
+
+  (I) <<<<<<<<< Bioinformatics >>>>>>>>>
+__________________________________________________
+    Bioinformatics                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Bioinformatics
+                                                                                        
+2) Definition of Bioinformatics ?
+---------------------------------
+*
+ 
+3) What is Bioinformatics About ?
+---------------------------------
+*
+*
+
+4) What does Bioinformatics Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Bioinformatics :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Bioinformatics :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Bioinformatics :
+-------------------------------
+*
+*
+_______________________________________________________________________________
+
+  (J) <<<<<<<<< Health Informatics >>>>>>>>>
+__________________________________________________
+     Health Informatics                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Health Informatics
+                                                                                        
+2) Definition of Health Informatics ?
+-------------------------------------
+*
+ 
+3) What is Health Informatics About ?
+-------------------------------------
+*
+*
+
+4) What does Health Informatics Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Health Informatics :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Health Informatics :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Health Informatics :
+-----------------------------------
+*
+*
+_______________________________________________________________________
+        
+  (K) <<<<<<<<< Finance >>>>>>>>>
+__________________________________________________
+       Finance                                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Finance
+                                                                                        
+2) Definition of Finance ?
+--------------------------
+*
+ 
+3) What is Finance About ?
+--------------------------
+*
+*
+
+4) What does Finance Do ?
+-------------------------
+*
+*
+
+5) Advantages/Benefits of Finance :
+-----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Finance :
+--------------------------------------
+*
+*
+*  
+
+7) Examples of Finance :
+------------------------
+*
+*
+_______________________________________________________________________________
+
+  (L) <<<<<<<<< Digital Libraries >>>>>>>>>
+__________________________________________________
+     Digital Libraries                            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Digital Libraries
+                                                                                        
+2) Definition of Digital Libraries ?
+------------------------------------
+*
+ 
+3) What is Digital Libraries About ?
+------------------------------------
+*
+*
+
+4) What does Digital Libraries Do ?
+-----------------------------------
+*
+*
+
+5) Advantages/Benefits of Digital Libraries :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Digital Libraries :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Digital Libraries :
+----------------------------------
+*
+*
+_______________________________________________________________________________
+
+  (M) <<<<<<<<< Digital Governments >>>>>>>>>
+__________________________________________________
+    Digital Governments                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Digital Governments
+                                                                                        
+2) Definition of Digital Governments ?
+--------------------------------------
+*
+ 
+3) What is Digital Governments About ?
+--------------------------------------
+*
+*
+
+4) What does Digital Governments Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Digital Governments :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Digital Governments :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Digital Governments :
+------------------------------------
+*
+*
+__________________________________________________________________________________
+
+ 90. Real-life examples of Data Mining :
+     ````````````````````````````````````
+           (A) Market Basket Analysis:
+           (B) Protein Folding:
+           (C) Fraud Detection:
+__________________________________________________
+     Real-life examples of Data Mining            |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Real-life examples of Data Mining
+                                                                                        
+2) Definition of Real-life examples of Data Mining ?
+----------------------------------------------------
+*
+ 
+3) What is Real-life examples of Data Mining About ?
+----------------------------------------------------
+*
+*
+
+4) What does Real-life examples of Data Mining Do ?
+---------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Real-life examples of Data Mining :
+-------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Real-life examples of Data Mining :
+----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Real-life examples of Data Mining :
+--------------------------------------------------
+*
+*
+________________________________________________________________________________
+
+  (A) <<<<<<<<< Market Basket Analysis >>>>>>>>>
+__________________________________________________
+     Market Basket Analysis                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Market Basket Analysis
+                                                                                        
+2) Definition of Market Basket Analysis ?
+-----------------------------------------
+*
+ 
+3) What is Market Basket Analysis About ?
+-----------------------------------------
+*
+*
+
+4) What does Market Basket Analysis Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Market Basket Analysis :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Market Basket Analysis :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Market Basket Analysis :
+---------------------------------------
+*
+*
+_______________________________________________________________________________
+
+  (B) <<<<<<<<< Protein Folding >>>>>>>>>
+__________________________________________________
+    Protein Folding                               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Protein Folding
+                                                                                        
+2) Definition of Protein Folding ?
+----------------------------------
+*
+ 
+3) What is Protein Folding About ?
+----------------------------------
+*
+*
+
+4) What does Protein Folding Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Protein Folding :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Protein Folding :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Protein Folding :
+--------------------------------
+*
+*
+__________________________________________________________________________________
+
+  (C) <<<<<<<<< Fraud Detection >>>>>>>>>
+__________________________________________________
+   Fraud Detection                                |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Fraud Detection
+                                                                                        
+2) Definition of Fraud Detection ?
+----------------------------------
+*
+ 
+3) What is Fraud Detection About ?
+----------------------------------
+*
+*
+
+4) What does Fraud Detection Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Fraud Detection :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fraud Detection :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Fraud Detection :
+--------------------------------
+*
+*
+__________________________________________________________________________________
+
